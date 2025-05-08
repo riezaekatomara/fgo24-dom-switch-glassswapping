@@ -1,0 +1,23 @@
+{
+  "name": "fgo24-dom-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riezaekatomara/fgo24-dom-switch-glassswapping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riezaekatomara/fgo24-dom-switch-glassswapping/issues"
+  },
+  "homepage": "https://github.com/riezaekatomara/fgo24-dom-switch-glassswapping#readme",
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
